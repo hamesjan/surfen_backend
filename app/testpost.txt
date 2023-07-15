@@ -1,0 +1,2 @@
+Postman post
+http://localhost:5000/api/process-video?video_url=https://firebasestorage.googleapis.com/v0/b/surfen-c0856.appspot.com/o/vs.mp4?alt=media%26token=ab79262d-038b-4d55-beb2-1a4f7fda41eb
