@@ -1,7 +1,6 @@
 from flask import Flask, request, jsonify
 import numpy as np
 import cv2 as cv
-from google.cloud import storage
 import firebase_admin
 from firebase_admin import credentials, storage as admin_storage
 import requests
